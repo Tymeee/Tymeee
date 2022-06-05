@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tymeee
-- 👀 I’m interested in coding and mobile development
+- 👀 I’m interested in coding, mobile development and cryptcurrencies
 - 🌱 I’m currently learning Swift and SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me @tymeee on Instagram
 
 <!---
 Tymeee/Tymeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
