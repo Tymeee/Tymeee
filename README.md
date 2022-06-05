@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tymeee
-- 👀 I’m interested in coding, mobile development and cryptcurrencies
+- 👀 I’m interested in coding, mobile development and cryptocurrencies
 - 🌱 I’m currently learning Swift and SwiftUI
 - 📫 Reach me @tymeee on Instagram
 
