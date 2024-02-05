@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year Computer Science student at Northeastern University passionate about exploring the realms of coding, blockchain development, and building practical solutions to real-world problems.
+I am a first-year Computer Science student at Northeastern University passionate about web/mobile development, blockchain development, and building practical solutions to real-world problems.
 
 
 ## 🌐 Socials:
